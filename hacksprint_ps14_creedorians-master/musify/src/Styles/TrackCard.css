@@ -1,0 +1,24 @@
+.card {
+  border-radius: 10px;
+  border: none;
+  background-color: transparent;
+}
+.card-body {
+  background-color: #bbdefb;
+
+  border-radius: 10px;
+  color: #212121;
+}
+.card-body:hover {
+  background: #bbdefb;
+}
+.text-color {
+  color:#212121;
+}
+/* .badge {
+  margin-left: 5px;
+  background: rgb(206, 99, 56);
+}
+.badge:hover {
+  background: rgb(194, 130, 71);
+} */
